@@ -16,7 +16,7 @@ export const identifyPayload: IdentifyPayload = {
   compress: true,
   properties: {
     $os: "linux",
-    $browser: "Discordeno",
+    $browser: "Discord iOS",
     $device: "Discordeno",
   },
   intents: 0,
